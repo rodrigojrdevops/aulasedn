@@ -15,7 +15,7 @@ while True:
         
         if 0 <= nota <= 10:
             notas.append(nota)
-            nuemro_de_alunos += 1
+            numero_de_alunos += 1
         else:
             print("Nota inválida. Digite uma nota entre 0 e 10.")
             
