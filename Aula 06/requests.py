@@ -10,3 +10,4 @@ else:
     print(F"Requisição falhou {response.status_code}")
     
     # Exemplo de requisição POST
+    
